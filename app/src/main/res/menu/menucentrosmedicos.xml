@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Centros"
+        android:title="Niveles Medicos">
+        <menu>
+            <item
+                android:id="@+id/nivel01"
+                android:title="Nivel 1"/>
+            <item
+                android:id="@+id/nivel02"
+                android:title="Nivel 2"/>
+            <item
+                android:id="@+id/nivel03"
+                android:title="Nivel 3"/>
+            <item
+                android:id="@+id/nivel04"
+                android:title="Nivel 4"/>
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/estadoscentrosmedicos"
+        android:title="Estados de los Centros Medicos">
+        <menu>
+            <item
+                android:id="@+id/clausurado"
+                android:title="Clausurado"/>
+            <item
+                android:id="@+id/funcionando"
+                android:title="Funcionando"/>
+            <item
+                android:id="@+id/sancionado"
+                android:title="Sancionado"/>
+        </menu>
+    </item>
+
+</menu>

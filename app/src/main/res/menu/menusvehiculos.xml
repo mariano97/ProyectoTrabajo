@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/estadoAmbulancias"
+        android:title="Estados del Vehiculo">
+        <menu>
+            <item
+                android:id="@+id/tecnicomecanica"
+                android:title="Problemas de Tecnicomecanica"/>
+            <item
+                android:id="@+id/infraccionada"
+                android:title="Infraccionada"/>
+            <item
+                android:id="@+id/patios"
+                android:title="Inmovilizada"/>
+            <item
+                android:id="@+id/taller"
+                android:title="Taller"/>
+            <item
+                android:id="@+id/bien"
+                android:title="Perfecto Estado"/>
+        </menu>
+    </item>
+
+    <item
+        android:title="Tipos de Vehiculos"
+        android:id="@+id/tipAmbulancias">
+        <menu>
+            <item
+                android:id="@+id/medicalizada"
+                android:title="Vehiculos Medicalizados"/>
+            <item
+                android:id="@+id/basica"
+                android:title="Vehiculos Basicos"/>
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "283025931803",
+    "firebase_url": "https://trabajomoviles-ee1f7.firebaseio.com",
+    "project_id": "trabajomoviles-ee1f7",
+    "storage_bucket": "trabajomoviles-ee1f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283025931803:android:735a10c9450e44a1",
+        "android_client_info": {
+          "package_name": "com.moviles.marioandres.moviles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283025931803-0u46t8ailcss9a29t24kpfci249ba9ci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moviles.marioandres.moviles",
+            "certificate_hash": "CF2DCCBD354535EF833B6084205E77CEC8936183"
+          }
+        },
+        {
+          "client_id": "283025931803-t2qqfgssbko6hu4c5jqokgcijb3o506o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQkBW3U1MLMQsXkEgLi3h2DhUGxmte2JU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283025931803-t2qqfgssbko6hu4c5jqokgcijb3o506o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283025931803:android:2bb7836e2b4760c0",
+        "android_client_info": {
+          "package_name": "com.moviles.marioandres.proyectotrabajo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283025931803-ihl83hiau89i0be7e82pk10utj5dqhu8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moviles.marioandres.proyectotrabajo",
+            "certificate_hash": "CF2DCCBD354535EF833B6084205E77CEC8936183"
+          }
+        },
+        {
+          "client_id": "283025931803-t2qqfgssbko6hu4c5jqokgcijb3o506o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQkBW3U1MLMQsXkEgLi3h2DhUGxmte2JU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283025931803-t2qqfgssbko6hu4c5jqokgcijb3o506o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/tiposDocumentos"
+        android:title="Tipos de Documentos">
+        <menu>
+            <item
+                android:id="@+id/cedula"
+                android:title="Cedula de Ciudadania"/>
+            <item
+                android:id="@+id/cedulaExtranjera"
+                android:title="Cedula de Extranjeria"/>
+            <item
+                android:id="@+id/permisotipodoc"
+                android:title="Permiso Trabajo"/>
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/especializaciondelpersonal"
+        android:title="EspecializacionPersonal">
+        <menu>
+            <item
+                android:id="@+id/paramedico"
+                android:title="Paramedico"/>
+            <item
+                android:id="@+id/medico"
+                android:title="Medico"/>
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/estadopersonal"
+        android:title="Estados del Personal">
+        <menu>
+            <item
+                android:id="@+id/suspendido"
+                android:title="Suspendido"/>
+            <item
+                android:id="@+id/despedido"
+                android:title="Despedido"/>
+            <item
+                android:id="@+id/buenestado"
+                android:title="Buen Estado"/>
+            <item
+                android:id="@+id/fallecido"
+                android:title="Fallecido"/>
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/cargospersonal"
+        android:title="Cargos">
+        <menu>
+            <item
+                android:title="Administrador"
+                android:id="@+id/administradorpersonal">
+            </item>
+            <item
+                android:id="@+id/ambulanciasemergenciaspersonal"
+                android:title="Operario Ambulancias" />
+        </menu>
+    </item>
+
+
+</menu>
